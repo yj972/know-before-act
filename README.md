@@ -1,6 +1,6 @@
 # Know Before Act
 
-[![skills.sh](https://skills.sh/b/yj972/know-before-act)](https://skills.sh/yj972/know-before-act)
+[![skills.sh](https://skills.sh/b/yj972/know-before-act)](https://skills.sh/yj972/know-before-act/know-before-act)
 
 Know Before Act is a lightweight agent protocol that reduces uncertainty before execution by asking high-information questions.
 
